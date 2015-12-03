@@ -13,6 +13,8 @@ Formal methods course, M2
 Bibliography
 ------
 
+[lien 1][lien1]
 
+[lien1]:http://lacl.fr/dima/langages
 
 
