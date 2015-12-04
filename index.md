@@ -13,6 +13,13 @@ Formal methods course, M2
 - Lesson 6, Star-free sets, aperiodic monoids and first-order logic : http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/DG-WT08.pdf and http://arxiv.org/pdf/1408.2842
 
 
+Topics for projects 
+------
+
+1. Memoryless determinacy of two-player games.
+2. Closure under complementation of tree automata.
+
+
 Bibliography
 ------
 
@@ -22,4 +29,6 @@ Bibliography
 [kamp]: http://arxiv.org/pdf/1401.2580
 
 [gastin]: http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/DG-WT08.pdf
+
+
 
