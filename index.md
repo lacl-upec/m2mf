@@ -10,7 +10,7 @@ Formal methods course, M2
 - [Lesson 3, Regular languages and logic](/m2mf/pdf/MSO%20into%20Buchi.pdf)
 - [Lesson 4, The Linear Temporal Logic (LTL)](m2mf/pdf/cours-ltl.pdf)
 - [Lesson 5, The First-Order Logic of Linear Order and Kamp's Theorem][kamp]
-- [Lesson 6, Star-free sets, aperiodic monoids and first-order logic][star-free aperiodic]
+- [Lesson 6, Star-free sets, aperiodic monoids and first-order logic] http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/DG-WT08.pdf and http://arxiv.org/pdf/1408.2842
 
 
 Bibliography
