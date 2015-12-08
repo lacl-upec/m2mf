@@ -23,7 +23,7 @@ Topics for projects (contact Catalin or Julian if you cannot get a copy of one o
 5. A theorem by Imre Simon that a language is piecewise testable if and only if it is recognized by a finite F-trivial monoid ([here](http://www.sciencedirect.com/science/article/pii/S0304397596002307)). 
 6. A direct proof of the expressive equivalence between the Linear Temporal Logic and the \omega-regular languages which are accepted by aperiodic monoids ([section 8 of this paper][gastin]). 
 7. A "faster" procedure for constructing Büchi automata from LTL formulas ([here](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PS/Cav01go.ps))
-8. Separability of LTL formulas [Theorem 2.4 in this paper](http://link.springer.com/chapter/10.1007%2F3-540-51803-7_36) or also [in this version](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.240)
+8. Separability of LTL formulas ([Theorem 2.4 in this paper](http://link.springer.com/chapter/10.1007%2F3-540-51803-7_36) or also [in this version](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.240)).
 
 
 Bibliography
