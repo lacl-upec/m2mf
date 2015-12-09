@@ -20,7 +20,7 @@ Topics for projects (contact Catalin or Julian if you cannot get a copy of one o
 2. <del>Closure under complementation of tree automata</del> (chapters 2 and 8 of [the same book](http://www.springer.com/us/book/9783540003885)) (to be presented by Mikhail Dubov).
 3. <del>Safra trees and closure under complementation of Büchi automata</del> (chapter 1 and 3 of [the same book](http://www.springer.com/us/book/9783540003885)) (to be presented by Cordero Christophe).
 4. <del>Schützenberger's Theorem on the equivalence between star-free languages and languages accepted by finite aperiodic monoids</del> ([here](http://arxiv.org/abs/1408.2842)) (to be presented by MALALANIRAINY Rakotoson Tina).
-5. A theorem by Imre Simon that a language is piecewise testable if and only if it is recognized by a finite F-trivial monoid ([here](http://www.sciencedirect.com/science/article/pii/S0304397596002307)). 
+5. <del>A theorem by Imre Simon that a language is piecewise testable if and only if it is recognized by a finite F-trivial monoid</del> ([here](http://www.sciencedirect.com/science/article/pii/S0304397596002307)) (to be presented by Mónika Csikós). 
 6. A direct proof of the expressive equivalence between the Linear Temporal Logic and the \omega-regular languages which are accepted by aperiodic monoids ([section 8 of this paper][gastin]). 
 7. A "faster" procedure for constructing Büchi automata from LTL formulas ([here](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PS/Cav01go.ps))
 8. Separability of LTL formulas ([Theorem 2.4 in this paper](http://link.springer.com/chapter/10.1007%2F3-540-51803-7_36) or also [in this version](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.240)).
