@@ -17,7 +17,7 @@ Topics for projects (contact Catalin or Julian if you cannot get a copy of one o
 ------
 
 1. Memoryless determinacy of two-player games (chapters 2 and 6 of [this book](http://www.springer.com/us/book/9783540003885)).
-2. Closure under complementation of tree automata (chapters 2 and 8 of [the same book](http://www.springer.com/us/book/9783540003885)).
+2. <del>Closure under complementation of tree automata</del> (chapters 2 and 8 of [the same book](http://www.springer.com/us/book/9783540003885)) (to be presented by Mikhail Dubov).
 3. <del>Safra trees and closure under complementation of Büchi automata</del> (chapter 1 and 3 of [the same book](http://www.springer.com/us/book/9783540003885)) (to be presented by Cordero Christophe).
 4. <del>Schützenberger's Theorem on the equivalence between star-free languages and languages accepted by finite aperiodic monoids</del> ([here](http://arxiv.org/abs/1408.2842)) (to be presented by MALALANIRAINY Rakotoson Tina).
 5. A theorem by Imre Simon that a language is piecewise testable if and only if it is recognized by a finite F-trivial monoid ([here](http://www.sciencedirect.com/science/article/pii/S0304397596002307)). 
