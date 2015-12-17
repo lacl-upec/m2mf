@@ -44,5 +44,8 @@ Topics for internships
 ------
 
 - [Logical modeling of strategic interactions in multi-agent systems][atl-lacl]
+- Decidability problems for linear recurrent sequences: the Skolem problem and related problems (two articles with introductory material [here](http://tucs.fi/publications/view/?pub_id=tHaHaHiKa05a) and [here](http://www.cs.ox.ac.uk/joel.ouaknine/publications/positivity13abs.html), description to be added soon)
+- A logic of probabilistic knowledge: decidability and undecidability (starting material: [this book (partly visible here)](http://www.cs.rice.edu/~vardi/papers/book.pdf) and [this article](http://arxiv.org/abs/1511.03003))
 
 [atl-lacl]: http://lacl.fr/dima/enseignement/stage.pdf
+
