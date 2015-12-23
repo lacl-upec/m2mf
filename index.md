@@ -24,6 +24,7 @@ Topics for projects (contact Catalin or Julien if you cannot get a copy of one o
 6. A direct proof of the expressive equivalence between the Linear Temporal Logic and the \omega-regular languages which are accepted by aperiodic monoids ([section 8 of this paper][gastin]). 
 7. <del>A "faster" procedure for constructing Büchi automata from LTL formulas</del> ([here](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PS/Cav01go.ps)) (to be presented by Daniel Antunes).
 8. Separability of LTL formulas ([Theorem 2.4 in this paper](http://link.springer.com/chapter/10.1007%2F3-540-51803-7_36) or also [in this version](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.240)).
+9. The Krohn-Rhodes decomposition of deterministic automata -- three variants [here](http://www-verimag.imag.fr/~maler/Papers/kr-new.pdf), [here](http://www.sciencedirect.com/science/article/pii/S0304397599003151) and [here](http://arxiv.org/abs/1111.1585)
 
 
 Bibliography
