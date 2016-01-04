@@ -47,6 +47,7 @@ Topics for internships
 - [Logical modeling of strategic interactions in multi-agent systems][atl-lacl]
 - Decidability problems for linear recurrent sequences: the Skolem problem and related problems (two articles with introductory material [here](http://tucs.fi/publications/view/?pub_id=tHaHaHiKa05a) and [here](http://www.cs.ox.ac.uk/joel.ouaknine/publications/positivity13abs.html), description to be added soon)
 - The model-checking problem for various fragments of a probabilistic temporal logic with (probabilistic) knowledge (starting material: first chapters of [this book](http://www.cs.rice.edu/~vardi/papers/book.pdf) and [this article](http://arxiv.org/abs/1511.03003))
+- [Theory of Electric Boolean Games][electric-games]
 
 [atl-lacl]: http://lacl.fr/dima/enseignement/stage.pdf
-
+[electric-games]: http://www.lacl.fr/~youalhadj/internships/mf-bg-en.pdf
