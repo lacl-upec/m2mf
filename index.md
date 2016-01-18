@@ -13,7 +13,7 @@ Formal methods course, M2
 - Lesson 6, Star-free sets, aperiodic monoids and first-order logic : [here](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/DG-WT08.pdf) and [here](http://arxiv.org/pdf/1408.2842)
 
 
-Topics for projects (contact Catalin or Julien if you cannot get a copy of one of the references) - presentations scheduled for Jan. 21st (Thu.) afternoon !
+Topics for projects (contact Catalin or Julien if you cannot get a copy of one of the references) - presentations scheduled for Jan. 21st (Thu.) afternoon, room 2B098 !
 ------
 
 1. Memoryless determinacy of two-player games (chapters 2 and 6 of [this book](http://www.springer.com/us/book/9783540003885)).
