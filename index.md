@@ -11,6 +11,7 @@ Formal methods course, M2
 - [Lesson 4, The Linear Temporal Logic (LTL)](/m2mf/pdf/cours-ltl.pdf)
 - [Lesson 5, The First-Order Logic of Linear Order and Kamp's Theorem][kamp]
 - Lesson 6, Star-free sets, aperiodic monoids and first-order logic : [here](http://www.lsv.ens-cachan.fr/Publis/PAPERS/PDF/DG-WT08.pdf) and [here](http://arxiv.org/pdf/1408.2842)
+- [Lesson 7, Introduction to B specification language](/m2mf/pdf/Inititation%20au%20B.pdf)
 
 
 Topics for projects (contact Catalin or Julien if you cannot get a copy of one of the references)
